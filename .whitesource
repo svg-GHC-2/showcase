@@ -1,3 +1,9 @@
 {
-  "settingsInheritedFrom": "svg-GHC-2/whitesource-config@master"
+  "settingsInheritedFrom": "svg-GHC-2/whitesource-config@master",
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": true
+    },
+    "enableRenovate": true,
+  }
 }
